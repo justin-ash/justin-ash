@@ -9,7 +9,7 @@
 - 🌱 I’m currently developing for remote developers 🤣
 - 👯 I’m looking to collaborate with other developers across world
 - 🥅 2021 Goals: Create a platform for remote developers to get top paying clients from U.S
-- ⚡ Fun fact: I love to draw and help
+- ⚡ Fun fact: I love to draw and help developers
 
 ### Connect with me:
 
