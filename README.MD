@@ -90,7 +90,7 @@ Role-based authorization and access management across applications.
 
 ## 🎓 Education & Certification
 
-- Bachelor of Computer Applications (BCA) — Annamalai University
+- MBA — Bharathiar University
 - Certified ScrumMaster (CSM)
 
 ---
