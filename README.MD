@@ -1,53 +1,105 @@
-### Hi there, I'm Justin Joseph [distantcoder][website] 👋
 
-[![Website](https://img.shields.io/website?label=distantcoder.com&style=for-the-badge&url=https%3A%2F%2Fdistantcoder.com)](https://distantcoder.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/distantcoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdistantcoder&screen_name=distantcoder)
+# Hi, I'm Justin Joseph 👋
 
-## I'm a Fullstack Developer, Good Friend and Studios!!
+### Lead Engineer | Go | AI-Powered Software Development
 
-- 🔭 I just launched my remote developers community application: [Become a top talented engineer!][course]!
-- 🌱 I’m currently developing application for remote developers 🤣
-- 👯 I’m looking to collaborate with other developers across world
-- 🥅 2021 Goals: Create a platform for remote developers to get top paying clients from U.S
-- ⚡ Fun fact: I love to draw and help developers
+I build backend systems, enterprise applications, APIs, and full-stack solutions. I combine software engineering with AI-powered development to build practical solutions and improve development workflows.
 
-### Connect with me:
+I have worked on enterprise platforms for **Armada.ai** and **UNIQLO**, including Atlas, Galleon, Marketplace, Product, Search, and EntryPF.
 
-[<img align="left" alt="distantcoder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="distantcoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-### Languages and Tools:
-
-
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
-
-<br />
-<br />
+- 🔭 Focus: Go, backend engineering, microservices, and system design
+- 🤖 AI: AI-assisted coding, LLM integrations, RAG, chatbots, and workflow automation
+- ☁️ Cloud: AWS, Docker, Kubernetes, and Kong
+- 💻 Full-stack: Go, PHP, Laravel, React, Node.js, PostgreSQL, and MySQL
+- 🌱 Exploring: AI agents, blockchain fundamentals, and Rust
+- 🤝 Interested in: Lead Engineer, Technical Lead, Backend Engineer, and Go Engineer roles
+- 📍 Kerala, India
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Created Repository for DCoder [#1] in [distantcoder](https://github.com/justin-ash/d-coder)
-<!--END_SECTION:activity-->
+## 🛠️ Technical Skills
 
-</details>
+**Languages:** Go, PHP, JavaScript, SQL
 
-[website]: https://distantcoder.com
-[course]: http://distantcoder.com
-[linkedin]: https://www.linkedin.com/in/justin-joseph-505767159/
+**Backend:** REST APIs, Microservices, Laravel, Lumen, Node.js
+
+**Frontend:** React, HTML, CSS
+
+**Databases:** PostgreSQL, MySQL
+
+**AI-Based Development:**
+- AI-assisted coding, debugging, refactoring, and test development
+- LLM API integrations and AI chatbots
+- Retrieval-Augmented Generation (RAG)
+- AI-driven workflow automation and agent-based workflows
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Kong, Git, GitHub
+
+**Engineering:** System design, API design, application integration, database design, Scrum, and technical coordination
+
+---
+
+## 💼 Professional Experience
+
+### QBurst Technologies
+**Engineer | June 2021 – Present**
+
+- Enterprise application development using Go, PHP, React, and relational databases.
+- Backend and frontend development, integrations, and module implementation.
+- Application testing and collaboration across engineering teams.
+
+### Feathersoft Infosolutions
+**Software Engineer | April 2017 – June 2021**
+
+- Backend development using Go and PHP.
+- API integrations, database development, and application testing.
+- Scrum, task management, and team coordination.
+
+### Pennar Solutions
+**Software Engineer | April 2015 – March 2017**
+
+- Web development using PHP and JavaScript.
+- Database integration, application workflows, and testing.
+- Feature development and task coordination.
+
+---
+
+## 🚀 Selected Project Experience
+
+### Armada.ai
+**Atlas · Galleon · Marketplace**
+
+Enterprise platform experience across connected-asset management, edge infrastructure, and marketplace-related systems.
+
+### UNIQLO
+**Product · Search · EntryPF**
+
+Enterprise e-commerce platform experience involving product and search-related systems.
+
+### Application Integration Platform
+**Go · PostgreSQL · React**
+
+Third-party application integrations and workflow-related functionality.
+
+### Access Control Microservice
+**Go · PostgreSQL**
+
+Role-based authorization and access management across applications.
+
+---
+
+## 🎓 Education & Certification
+
+- Bachelor of Computer Applications (BCA) — Annamalai University
+- Certified ScrumMaster (CSM)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Justin Joseph](https://www.linkedin.com/in/justin-joseph-505767159/)
+- GitHub: [justin-ash](https://github.com/justin-ash)
+
+---
+
+*Building reliable software and applying AI to real-world engineering problems.*
