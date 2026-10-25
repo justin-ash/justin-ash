@@ -1,18 +1,19 @@
 
 # Hi, I'm Justin Joseph 👋
 
-### Lead Engineer | Go | AI-Powered Software Development
+### Lead Engineer | Forward Deployed Engineer (FDE) | Go | AI-Powered Development
 
-I build backend systems, enterprise applications, APIs, and full-stack solutions. I combine software engineering with AI-powered development to build practical solutions and improve development workflows.
+I build backend systems, enterprise applications, APIs, and AI-powered solutions. I combine software engineering, system design, and AI-assisted development to solve real-world business problems and deliver production-oriented solutions.
 
 I have worked on enterprise platforms for **Armada.ai** and **UNIQLO**, including Atlas, Galleon, Marketplace, Product, Search, and EntryPF.
 
 - 🔭 Focus: Go, backend engineering, microservices, and system design
-- 🤖 AI: AI-assisted coding, LLM integrations, RAG, chatbots, and workflow automation
-- ☁️ Cloud: AWS, Docker, Kubernetes, and Kong
+- 🤖 AI Engineering: LLM integrations, RAG applications, AI agents, chatbots, and workflow automation
+- 🚀 FDE: Customer-focused solution engineering, rapid prototyping, system integration, and AI solution deployment
+- ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, and Kong
 - 💻 Full-stack: Go, PHP, Laravel, React, Node.js, PostgreSQL, and MySQL
 - 🌱 Exploring: AI agents, blockchain fundamentals, and Rust
-- 🤝 Interested in: Lead Engineer, Technical Lead, Backend Engineer, and Go Engineer roles
+- 🤝 Interested in: Lead Engineer, Forward Deployed Engineer, AI Engineer, Technical Lead, and Go Backend Engineer roles
 - 📍 Kerala, India
 
 ---
