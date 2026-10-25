@@ -12,7 +12,7 @@ I have worked on enterprise platforms for **Armada.ai** and **UNIQLO**, includin
 - 🚀 FDE: Customer-focused solution engineering, rapid prototyping, system integration, and AI solution deployment
 - ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, and Kong
 - 💻 Full-stack: Go, PHP, Laravel, React, Node.js, PostgreSQL, and MySQL
-- 🌱 Exploring: AI agents, blockchain fundamentals
+- 🌱 Exploring: AI agents [GenAIGPT](https://genaigpt.in/), blockchain fundamentals
 - 🤝 Interested in: Lead Engineer, Forward Deployed Engineer, AI Engineer, Technical Lead, and Go Backend Engineer roles
 - 📍 Kerala, India
 
